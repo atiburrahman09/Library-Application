@@ -1,0 +1,6 @@
+E:\103033\06-17-2015\LibraryWebApp\LibraryWebApp\bin\LibraryWebApp.dll.config
+E:\103033\06-17-2015\LibraryWebApp\LibraryWebApp\bin\LibraryWebApp.dll
+E:\103033\06-17-2015\LibraryWebApp\LibraryWebApp\bin\LibraryWebApp.pdb
+E:\103033\06-17-2015\LibraryWebApp\LibraryWebApp\obj\Debug\LibraryWebApp.csprojResolveAssemblyReference.cache
+E:\103033\06-17-2015\LibraryWebApp\LibraryWebApp\obj\Debug\LibraryWebApp.dll
+E:\103033\06-17-2015\LibraryWebApp\LibraryWebApp\obj\Debug\LibraryWebApp.pdb
